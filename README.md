@@ -3,7 +3,7 @@
 ## descripcion 
 Este proyecyo simula una tienda online
 
-## Tecmilogias
+## Tecnologias
 -HTML
 -CSS
 -JavaScript
